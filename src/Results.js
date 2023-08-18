@@ -5,6 +5,26 @@ import { AiOutlineEye } from "react-icons/ai";
 import { LiaFacebookMessenger } from "react-icons/lia";
 
 
+const title = () => {
+  for (i)
+  if (type === reaction) {
+      return "Reaction" 
+  } else if (type === memory) {
+      return "Memory"
+  } else if (type === verbal) {
+      return "Verbal" 
+  } else if (type === visual) {
+      return "Visual"
+  }
+}
+
+<button id="button-title" className="flex justify-between w-64 rounded-md bg-teal-50  text-primary-green-teal px-6 py-3 mb-3 text-sm font-semibold">
+<LiaFacebookMessenger />
+Verbal <a> </a>
+<p className="text-gray-400 ">
+  <a id="score" className="text-black">61</a> / 100
+</p>
+</button>
 
 function Results() {
   return (
