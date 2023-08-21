@@ -1,4 +1,4 @@
-import Results from './Results'
+import Results from './pages/Results'
 import './App.css';
 
 function App() {
