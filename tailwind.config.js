@@ -6,10 +6,11 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    fontFamily: {
-      'hanken': 'HankenGrotesk'
-    },
+  
     extend: {
+      fontFamily: {
+        'hanken' : ['Hanken+Grotesk', 'sans']
+      },
       colors: {
         primary: {
         'light-red':'#ff5757',
