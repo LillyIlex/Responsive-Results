@@ -40,7 +40,7 @@ function Button(props) {
 
   return (
     <button
-      className={`flex justify-between w-56 rounded-md  ${colour} px-6 py-3 mb-3 text-sm font-semibold`}
+      className={`flex justify-between w-60 rounded-md  ${colour} px-4 py-3 mb-3 text-sm font-semibold`}
     >
       <a>{icon}</a>
       {props.title} <a> </a> <a> </a>
