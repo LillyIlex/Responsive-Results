@@ -7,10 +7,10 @@ console.log(data);
 
 function Results() {
   return (
-    <div className="bg-gray-100 p-4">
-      <div className="flex flex-wrap grid-cols-1 md:grid-cols-2 text-white font- place-content-center md:container md:mx-auto my-10 font-hanken">
+    <div className="bg-gray-100 p-4 ">
+      <div className="flex flex-wrap grid-cols-1 md:grid-cols-2 text-white font- place-content-center md:container md:mx-auto my-10">
         <div >
-          <div className="block max-w-xs h-96 w-72 rounded-2xl bg-indigo-600 bg-gradient-to-b from-gradients-light-slate-blue to-gradients-light-royal-blue p-4 pb-7 text-center shadow-[0_4px_9px_-4px_#3b71ca]">
+          <div className="block max-w-xs h-96 w-72 rounded-2xl bg-indigo-600  bg-gradient-to-b from-gradients-light-slate-blue to-gradients-light-royal-blue p-4 pb-7 text-center shadow-[0_4px_9px_-4px_#3b71ca]">
             <div className=" text-2xl  border-black py-1 px-6 ">
               <p className="mt-2 text-lg font-semibold leading-7 text-neutral-light-lavender">
                 Your Result

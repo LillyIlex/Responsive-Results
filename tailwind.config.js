@@ -9,7 +9,7 @@ module.exports = {
   
     extend: {
       fontFamily: {
-        'hanken' : ['Hanken+Grotesk', 'sans']
+        'hanken' : ['Hanken Grotesk']
       },
       colors: {
         primary: {
